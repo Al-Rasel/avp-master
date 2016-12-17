@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_86340ec33792b0d25def76ca17358e7694fd72fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_d1f600c587314321edf50bb0014e231e680a2ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6865391ad2addbabaa573ce10d604f4a50acca33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.1_3753cd2c01ba25a4a3605792bc1cfad510e27f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c189117b21220738ec410b3e09434b1061ce6816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_cab142fa0e7d60cbb092a7afa2fc281127e71a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\libs\android-query.0.25.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60258ce3d38031f3e2ab3afeb38c65f3516fe5a">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\android-query.0.25.10_4fb10cd6c5ae19d6ddb8f16ba0dc34ff7b56a07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d6d13a40bfa4a0fe7866b1172fd8620c8543b712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_8784aecfc6ae58461e50ab0154013312b574658c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1282e3fb9fd526c9d12bd60d8c1e3d94e69fa838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_780dd1ae2ce5557a85fcc9c83b293f7732f48595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="806d492d393faf5058033c635a9b81e469714f51">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6cd2b647b3e223addabcea6c377d43ad7360ff9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="efba3a95bfd5a7fa40ed0758be78e806818b5449">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.8_aac031c44b544299b6f7b330ecb563c8bcc01326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="97fc1ce9246bf3538749be31ca837bb4234e61f3">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.2.1_09c5ef1f69089c4c0357d5baac8e1a8fb1e69a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6a3c45b9cdcaf62a9a180c08da5dd11232e38283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_54acee1c967ce6f52c0a22159d78da8d16123ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_6de2cff9a4a7162446f3948bca427c51b879c145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_0485107271aafc883f53d5314dc137fa659abdd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ecb6339e8ef9eb7a5e624c435572d4bcba044cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.8.0_0d7c55749d06d620543fd6c65cfa227af15be381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5be962d52f8de24135530a22a1f9f67465037e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6f85277a150e8d0e1fd35d7463fa5a9190b755e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.8.0_37889b9d112fc6e4b764621f103510e6fa91af2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c7f9d9841dd3c5b3a7a89f6ed1b6caff136e788a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_74b900868c6b6559b09c22bad00b35c938c7b236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\VideoPlayer\avp-master\avp-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_33a7c2ec551ba58b50747785db35f0cac2ee9f37.jar" />
+    </item>
+
+</items>
